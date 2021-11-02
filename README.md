@@ -23,7 +23,7 @@ MONGODB: What is MongoDB known for?
 
 
 
-Some Screenshots of website:
+Screenshots Of The Site:
 
 HOMEPAGE
 
@@ -68,7 +68,12 @@ SPECIFIC HOSPITAL PAGE FOR EACH HOSPITAL TO SEE IT'S LOCATION AND VACANT NUMBER 
 
 ![image](https://user-images.githubusercontent.com/90057479/139569321-9737613d-7b21-487d-ba50-1b699d3c82dc.png)
 
-GOOGLE MAP API IS ALSO ADDED TO SHOW EXACT LOCATION OF THE HOSPITAL
+GOOGLE MAP API IS ADDED TO SHOW EXACT LOCATION OF THE HOSPITALS
+
+
+LIVE SITE URL: https://med-bed.000webhostapp.com/
+<br><br>
+Thanks For Visiting The Site.
 
 
 
