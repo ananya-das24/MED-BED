@@ -75,5 +75,5 @@ GOOGLE MAP API IS ADDED TO SHOW EXACT LOCATION OF THE HOSPITALS
 - Solution URL: [Code on GitHub](https://github.com/ananya-das24/MED-BED)
 - Live Site URL: [Vercel Live URL](https://med-bed.000webhostapp.com/)
 
-
+### ThankYou For Visiting The Site ❤
 
